@@ -1,5 +1,5 @@
 const guildData = require('../../database/models/guildData');
-module.exports = {
+module.exports = {         
     name: '24/7',
     description: 'Enable/Disable The 24h/7 mode',
     cat: 'configuration',
@@ -38,4 +38,4 @@ module.exports = {
              */
         };
     },
-};
+};     
